@@ -1,0 +1,101 @@
+#EXTM3U
+#EXTINF:-1 group-title="Lista 31",AE Mundo
+http://168.194.171.33:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="Lista 31",ATV
+http://168.194.171.33:8000/play/a01x/index.m3u8
+#EXTINF:-1 group-title="Lista 31",AmericaTV
+http://168.194.171.33:8000/play/a01v/index.m3u8
+#EXTINF:-1 group-title="Lista 31",Animal Planet
+http://168.194.171.33:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="Lista 31",CNN Espanol
+http://168.194.171.33:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="Lista 31",Canal Estrellas
+http://168.194.171.33:8000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="Lista 31",Cartoon Network
+http://168.194.171.33:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="Lista 31",Cinecanal
+http://168.194.171.33:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="Lista 31",Discovery Channel
+http://168.194.171.33:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="Lista 31",Discovery ID
+http://168.194.171.33:8000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="Lista 31",Discovery Kids
+http://168.194.171.33:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="Lista 31",Disney Channel
+http://168.194.171.33:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="Lista 31",Disney Jr
+http://168.194.171.33:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="Lista 31",E Entertainment
+http://168.194.171.33:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="Lista 31",ESPN
+http://168.194.171.33:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="Lista 31",ESPN 2
+http://168.194.171.33:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="Lista 31",ESPN 2 Latin
+http://168.194.171.33:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="Lista 31",ESPN 4
+http://168.194.171.33:8000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="Lista 31",ESPN 4
+http://168.194.171.33:8000/play/a018/index.m3u8
+#EXTINF:-1 group-title="Lista 31",Fox Sports 1
+http://168.194.171.33:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="Lista 31",Fox Sports 2
+http://168.194.171.33:8000/play/a01k/index.m3u8
+#EXTINF:-1 group-title="Lista 31",Fox Sports 3
+http://168.194.171.33:8000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="Lista 31",GOL TV
+http://168.194.171.33:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="Lista 31",HBO 2
+http://168.194.171.33:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="Lista 31",HBO Family
+http://168.194.171.33:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="Lista 31",HBO Plus
+http://168.194.171.33:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="Lista 31",HBO XTREME SD
+http://168.194.171.33:8000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="Lista 31",History Channel
+http://168.194.171.33:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="Lista 31",HomeandHealth
+http://168.194.171.33:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="Lista 31",I-Sat
+http://168.194.171.33:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="Lista 31",Latina
+http://168.194.171.33:8000/play/a01u/index.m3u8
+#EXTINF:-1 group-title="Lista 31",Lifetime
+http://168.194.171.33:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="Lista 31",MTV
+http://168.194.171.33:8000/play/a007/index.m3u8
+#EXTINF:-1 group-title="Lista 31",Nat Geo
+http://168.194.171.33:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="Lista 31",Nickelodeon
+http://168.194.171.33:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="Lista 31",Panamericana TV
+http://168.194.171.33:8000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="Lista 31",RCN Novelas
+http://168.194.171.33:8000/play/a01n/index.m3u8
+#EXTINF:-1 group-title="Lista 31",STAR CHANNEL
+http://168.194.171.33:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="Lista 31",Studio Universal
+http://168.194.171.33:8000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="Lista 31",SyFy
+http://168.194.171.33:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="Lista 31",TBS
+http://168.194.171.33:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="Lista 31",TCM
+http://168.194.171.33:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="Lista 31",TLC
+http://168.194.171.33:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="Lista 31",TNT
+http://168.194.171.33:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="Lista 31",TNT SPORTS 3
+http://168.194.171.33:8000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="Lista 31",TV Peru
+http://168.194.171.33:8000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="Lista 31",Telemundo
+http://168.194.171.33:8000/play/a01m/index.m3u8
+#EXTINF:-1 group-title="Lista 31",Universal
+http://168.194.171.33:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="Lista 31",WILLAX
+http://168.194.171.33:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="Lista 31",Warner
+http://168.194.171.33:8000/play/a016/index.m3u8
